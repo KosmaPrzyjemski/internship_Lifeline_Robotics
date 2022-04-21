@@ -1,4 +1,4 @@
-# Compilet with :
+# Compile with :
 
 '''bash
 gcc -Iscr -fPIC $(pig-config --cflags --libs python3) -c src/hw.c hw_wrap.c
