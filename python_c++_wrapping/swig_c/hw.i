@@ -9,7 +9,7 @@ We include the C header file necessary to compile the interface.
 
 /* List functions to be interfaced : */
 void hw1(double r1, double r2, double *OUTPUT);
-void hw2(double r1, double r2)
+void hw2(double r1, double r2);
 
 /* Rr use 
 %include "src/hw.h"

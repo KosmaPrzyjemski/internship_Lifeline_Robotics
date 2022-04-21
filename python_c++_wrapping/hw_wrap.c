@@ -1,5 +1,5 @@
 // Wrapper code for the hw1 function
-#include <Python/Python.h>
+#include "Python.h"
 #include "src/hw.h"
 
 static PyObject *_wrap_hw1(PyObject *self, PyObject *args) {
